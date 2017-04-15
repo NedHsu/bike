@@ -1,0 +1,1 @@
+export const GETALL_NEWS ='GETALL_NEWS';
